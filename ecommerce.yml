@@ -7,7 +7,7 @@ spring:
 
 token:
   expiration_time: 864000000
-  secret: A54SxLl7R0pGXNxFkdtL5J6YwZ8+LSL1dLSl/aE8AUEYGq0sQjCvbwVCJ0dy1yTK0slEH6AlCevlXJ+DXvHeOw==
+  secret: A54SxLl7R0pGXNxFkdtL5J6YwZ8+LSL1dLSl/aE8AUEYGq0sQjCvbwVCJ0dy1yTK0slEH6AlCevlXJ+DXvHeOwddd==
 
 gateway:
   ip: 192.168.0.12
